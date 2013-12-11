@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-import django_test_views
+import sendgridify
 setup(name='django-heroku-sendgridify',
 	version=sendgridify.__version__,
 	packages = find_packages(),
