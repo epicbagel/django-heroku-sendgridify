@@ -4,9 +4,11 @@ Automatic Send Grid configuration on Heroku.
 
 ## Install
 
-To install ``django-heroku-sendgridify``, simply run
-``pip install -e git://github.com/epicbagel/django-heroku-sendgridify.git#egg=django-heroku-sendgridify-dev`` and you'll get the latest version
-installed automatically.
+To install the latest version of ``django-heroku-sendgridify``, simply run
+
+```
+pip install -e git://github.com/epicbagel/django-heroku-sendgridify.git#egg=django-heroku-sendgridify-dev
+``` 
 
 
 ## Usage
